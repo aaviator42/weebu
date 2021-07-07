@@ -12,7 +12,7 @@ REM file.
 
 REM [!!] Make sure powershell is installed!
 
-set infourl=http://aavi.xyz/r1/info.txt
+set infourl=http://example.com/files/info.txt
 
 ::main
 echo -------------------------------------
