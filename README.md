@@ -87,6 +87,10 @@ Logs are stored in `weebu_log.txt`. The `info.txt` file from the last run is sav
 Advanced Stuff & Tips
 ---------------------
 
+### Deploying from the local network?
+
+Delete the `::internetcheck` code block from `weebu.cmd`.
+
 ### Using FTP
 
 Simply save the URL to `info.txt` with the `ftp://` prefix instead of `http://` or `https://`:
