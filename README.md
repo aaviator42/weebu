@@ -1,6 +1,6 @@
 # weebu 
 
-Deploy commands to multiple computers/devices at the same time.  
+Deploy commands to multiple Windows computers/devices at the same time.  
 
 License: `GNU AGPLv3`  
 Current version: `3.1`
